@@ -1,0 +1,63 @@
+[
+  {
+    "trigger": "ping",
+    "message": "pong"
+  },
+  {
+    "trigger": "argentino",
+    "message": "Persona no grata"
+  },
+  {
+    "trigger": "vivimos",
+    "message": "en una sociedad"
+  },
+  {
+    "trigger": "sociedad",
+    "message": "the game"
+  },
+  {
+    "trigger": "77+33",
+    "message": "100"
+  },
+  {
+    "trigger": "magic8",
+    "message": [
+      "🎱: Es decididamente así",
+      "🎱: Sin lugar a dudas",
+      "🎱: No se puede predecir ahora",
+      "🎱: Muy dudoso",
+      "🎱: Sí",
+      "🎱: Puedes confiar en ello",
+      "🎱: Concéntrate y vuelve a preguntar",
+      "🎱: Lo más probable",
+      "🎱: Mi respuesta es no",
+      "🎱: Mis fuentes dicen que no",
+      "🎱: Las señales apuntan a que sí",
+      "🎱: Respuesta confusa, vuelve a intentarlo",
+      "🎱: Vuelve a preguntar más tarde",
+      "🎱: Mejor no decirte ahora",
+      "🎱: Sí, definitivamente",
+      "🎱: No cuentes con ello",
+      "🎱: Es cierto",
+      "🎱: Como yo lo veo, sí",
+      "🎱: Las perspectivas no son muy buenas",
+      "🎱: Perspectiva buena"
+    ],
+    "options": {
+      "isRandom": true,
+      "readingType": 2
+    }
+  },
+  {
+    "trigger": "bitchesless",
+    "message": "💀 Michael ha sido bitchesless por $$ días 💀",
+    "options": {
+      "date": "2019-09-18T00:00:00",
+      "readingType": 1
+    }
+  },
+  {
+    "trigger": "550/2",
+    "message": "225"
+  }
+]
